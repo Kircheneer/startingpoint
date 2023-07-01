@@ -64,6 +64,7 @@ rpm:
     - libadwaita
     - zsh
     - neovim
+    - rust
     # COPR
     - starship
     - zellij
