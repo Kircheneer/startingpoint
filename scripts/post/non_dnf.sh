@@ -5,5 +5,5 @@
 # builds actually ran successfully without any errors!
 set -oue pipefail
 
-# checzmoi
+echo "Installing chezmoi..."
 sh -c "$(curl -fsLS get.chezmoi.io)"

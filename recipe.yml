@@ -63,8 +63,11 @@ rpm:
     # if you ever download or compile any custom software on your machine.
     - libadwaita
     - zsh
+    - fish
     - neovim
     - rust
+    - gcc-c++
+    - ripgrep
     # COPR
     - starship
     - zellij
